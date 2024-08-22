@@ -27,3 +27,7 @@ Menuhax ist ein Payload, den man über manche Methoden installieren kann, der in
 ### **unSAFE_MODE**
 
 unSAFE_MODE ist eine Methode, um CFW durch den Recovery Mode im 3DS zu installieren, wo man durchs Drücken von L + R + Steuerkreuz-Hoch + A während des Bootens des 3DS starten kann. Hier wird die Internetverbindung fehlschlagen, wodurch man in die Interneteinstellungen kommt, wo man durchs Laden der Proxy-Einstellungen CFW installieren kann.
+
+### **NTRBootHax**
+
+Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kompatibel ist (also .nds Dateien laden kann), verwendet wird. Dabei wird der Schlafmodus des 3DS beim Start genutzt, um boot9strap zu installieren.
