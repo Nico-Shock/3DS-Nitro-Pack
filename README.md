@@ -26,4 +26,4 @@ Menuhax ist ein Payload, den man über manche Methoden installieren kann, der in
 
 ### **unSAFE_MODE**
 
-unSAFE_MODE ist eine Methode, um CFW durch den Recovery Mode im 3DS zu installieren, wo man durchs Drücken von L + R + Steuerkreuz-Hoch + Select während des Bootens des 3DS starten kann. Hier wird die Internetverbindung fehlschlagen, wodurch man in die Interneteinstellungen kommt, wo man durchs Laden der Proxy-Einstellungen CFW installieren kann.
+unSAFE_MODE ist eine Methode, um CFW durch den Recovery Mode im 3DS zu installieren, wo man durchs Drücken von L + R + Steuerkreuz-Hoch + A während des Bootens des 3DS starten kann. Hier wird die Internetverbindung fehlschlagen, wodurch man in die Interneteinstellungen kommt, wo man durchs Laden der Proxy-Einstellungen CFW installieren kann.
