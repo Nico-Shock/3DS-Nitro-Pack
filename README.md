@@ -49,6 +49,7 @@ Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kom
 - [Boot9Strap v.1.4](https://github.com/SciresM/boot9strap/releases/tag/1.4)
 - [SafeB9SInstaller v.0.0.7](https://github.com/d0k3/SafeB9SInstaller/releases/tag/v0.0.7)
 - [Homebrew Launcher v.2.4.3](https://github.com/devkitPro/3ds-hbmenu/releases/tag/v2.4.3)
+- [Homebrew Launcher Wrapper](https://wiidatabase.de/3ds-downloads/hacks/homebrew-launcher-wrapper/)
 - [FBI v.2.6.8](https://github.com/Steveice10/FBI/releases/tag/2.6.1)
 - [Universal Updater v.3.2.6](https://github.com/Universal-Team/Universal-Updater/releases/tag/v3.2.6)
 - [Anemone v.3.0.1](https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.1)
