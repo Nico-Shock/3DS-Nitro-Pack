@@ -38,3 +38,26 @@ Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kom
 **Alle Dateien für alle Packs zusammen gestellt**
 
 [Mega](https://mega.nz/file/AOlyxbZb#5u9pjF02xzbrsZUPX_PpgIRycq3x3102noKvjE16g2M)
+
+
+## **Aktuelle Daten aller Packs zusammen:**
+
+- [Luma3DS v.13.1.2](https://github.com/LumaTeam/Luma3DS/releases/tag/v13.1.2)
+- [GodMode9 v.2.1.1](https://github.com/d0k3/GodMode9/releases/tag/v2.1.1)
+- [GM9MegaScript v.1.2](https://github.com/annson24/GM9Megascript/releases/tag/v1.2)
+- [MSET9 v.2.0](https://github.com/zoogie/MSET9/releases/tag/v2.0)
+- [Boot9Strap v.1.4](https://github.com/SciresM/boot9strap/releases/tag/1.4)
+- [SafeB9SInstaller v.0.0.7](https://github.com/d0k3/SafeB9SInstaller/releases/tag/v0.0.7)
+- [Homebrew Launcher v.2.4.3](https://github.com/devkitPro/3ds-hbmenu/releases/tag/v2.4.3)
+- [FBI v.2.6.8](https://github.com/Steveice10/FBI/releases/tag/2.6.1)
+- [Universal Updater v.3.2.6](https://github.com/Universal-Team/Universal-Updater/releases/tag/v3.2.6)
+- [Anemone v.3.0.1](https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.1)
+- [HShop v.1.4.5](https://hshop.erista.me/3hs)
+- [Checkpoint v.3.7.4](https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.7.4)
+- [Nimbus/Pretendo v.1.6.1](https://github.com/PretendoNetwork/nimbus/releases/tag/v1.6.1)
+- [FTPD v.3.1.0](https://github.com/mtheall/ftpd/releases/tag/v3.1.0)
+- [Kartminer7 v.0.4](https://github.com/zoogie/Kartminer7/releases/tag/v0.4beta)
+- [Kartdlphax v.1.3.3](https://github.com/PabloMK7/kartdlphax/releases/tag/v1.3.3)
+- [Menuhax67 v.1.2](https://github.com/zoogie/menuhax67/releases/tag/v1.2)
+- [unSAFE_MODE v.1.3](https://github.com/zoogie/unSAFE_MODE/releases/tag/v1.3)
+- [nimdsphax v.1.0](https://github.com/luigoalma/nimdsphax/releases/tag/v1.0)
