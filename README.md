@@ -37,7 +37,7 @@ Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kom
 
 **Alle Dateien für alle Packs zusammen gestellt**
 
-[Mega](https://mega.nz/file/AOlyxbZb#5u9pjF02xzbrsZUPX_PpgIRycq3x3102noKvjE16g2M)
+[Mega](https://mega.nz/file/sCcnwSxQ#G4CR9-KFRN3TLYexZ-pSXreFc9xbt7-0PhHXOeNmH7Y)
 
 
 ## **Aktuelle Daten aller Packs zusammen:**
