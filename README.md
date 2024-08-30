@@ -70,3 +70,4 @@ Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installie
 - [unSAFE_MODE v.1.3](https://github.com/zoogie/unSAFE_MODE/releases/tag/v1.3)
 - [nimdsphax v.1.0](https://github.com/luigoalma/nimdsphax/releases/tag/v1.0)
 - [ntrbootflasher v.5.1.1](https://github.com/jason0597/ntrboot_flasher_nds/releases/tag/5.1.1)
+- [super-skaterhax v.1.1](https://github.com/zoogie/super-skaterhax/releases/tag/v1.1)
