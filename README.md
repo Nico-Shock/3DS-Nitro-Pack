@@ -12,6 +12,10 @@ MSET9 ist ein Payload, der die Zusatzdaten des Mii Makers ausnutzt und dann ein 
 
 Soundhax ist bzw. war eine Methode, die eine Schwachstelle im 3DS Sound ausnutzt, da dieser die Audiodateien einfach abspielt, statt sie auf überladenen oder falschen Inhalt zu prüfen, wodurch man CFW installieren kann. Diese Methode ist leider nur von Firmware 1.0 bis 11.3 möglich. Man muss eine spezielle Sounddatei für den Exploit manuell [hier](http://soundhax.com/) herunterladen.
 
+### **SSLoth-Browser**
+
+Der SSLoth-Browser ist eine Methode, bei der NUR der Old 3DS über den Browser durchs Modifizieren der Proxy-Einstellungen auf Firmware 11.4 bis 11.13 CFW installiert werden kann.
+
 ### **kartminer7**
 
 Kartminer7 ist ein Payload, der die Extradaten in der Mario Kart 7 Version 1.2 ausnutzt, um über den StreetPass im Mario Kart Kanal, Menuhax oder den unSAFE_MODE installieren zu können.
