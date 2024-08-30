@@ -6,31 +6,31 @@
 
 ### **MSET9**
 
-MSET9 ist ein Payload, der die Zusatzdaten des Mii Makers ausnutzt und dann ein Payload lädt, um CFW zu installieren. Empfohlen für Firmware-Versionen 11.14 bis 11.17.
+MSET9 ist ein Payload, der die Zusatzdaten des Mii Makers ausnutzt und dann ein Payload lädt, um CFW zu installieren.
 
 ### **Soundhax**
 
-Soundhax ist bzw. war eine Methode, die eine Schwachstelle im 3DS Sound ausnutzt, da dieser die Audiodateien einfach abspielt, statt sie auf überladenen oder falschen Inhalt zu prüfen, wodurch man CFW installieren kann. Diese Methode ist nur von Firmware 1.0 bis 11.3 möglich.
+Soundhax ist bzw. war eine Methode, die eine Schwachstelle im 3DS Sound ausnutzt, da dieser die Audiodateien einfach abspielt, statt sie auf überladenen oder falschen Inhalt zu prüfen, wodurch man CFW installieren kann.
 
 ### **SSLoth-Browser**
 
-Der SSLoth-Browser ist eine Methode, bei der NUR der Old 3DS über den Browser durchs Modifizieren der Proxy-Einstellungen auf Firmware 11.4 bis 11.13 CFW installiert werden kann.
+Der SSLoth-Browser ist eine Methode, über den Browser durchs Modifizieren der Proxy Einstellungen boot9strap installiert werden kann.
 
 ### **kartminer7**
 
-Kartminer7 ist ein Payload, der die Extradaten in der Mario Kart 7 Version 1.2 ausnutzt, um über den StreetPass im Mario Kart Kanal, Menuhax oder den unSAFE_MODE installieren zu können. Dieser Exploit ist auf jeder Firmware möglich.
+Kartminer7 ist ein Payload, der die Extradaten in der Mario Kart 7 Version 1.2 ausnutzt, um über den StreetPass im Mario Kart Kanal, Menuhax oder den unSAFE_MODE installieren zu können.
 
 ### **Kartdlphax**
 
-Kartdlphax ist eine Methode, bei der man über den Download Play extrem schnell und einfach ein Payload von einem bereits gehackten 3DS auf einen anderen 3DS übertragen kann, um dann Menuhax oder unSAFE_MODE zu installieren. Dieser Exploit ist auf jeder Firmware möglich.
+Kartdlphax ist eine Methode, bei der man über den Download Play extrem schnell und einfach ein Payload von einem bereits gehackten 3DS auf einen anderen 3DS übertragen kann, um dann Menuhax oder unSAFE_MODE zu installieren.
 
 ### **NTRBootHax**
 
-Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kompatibel ist (also .nds Dateien laden kann), verwendet wird. Dabei wird der Schlafmodus des 3DS beim Start durch Drücken von Select + Start + X genutzt, um boot9strap zu installieren. Dieser Exploit ist auf jeder Firmware möglich.
+Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kompatibel ist (also .nds Dateien laden kann), verwendet wird. Dabei wird der Schlafmodus des 3DS beim Start durch Drücken von Select + Start + X genutzt, um boot9strap zu installieren.
 
 ### **super-skaterhax**
 
-Der super-skaterhax ist eine Methode, die NUR auf den New 2DS/3DS-Systemen boot9strap über den Browser installiert. Es handelt sich dabei um eine Rückkehr von Browserhax für die New 2DS/3DS-Systeme von Firmware 11.15 bis 11.17.
+Der super-skaterhax ist eine Methode, die über den Browser installiert werden kann. Es handelt sich dabei um eine Rückkehr von Browserhax für die New 2DS/3DS Systeme von Firmware 11.15 bis 11.17.
 
 ### **Menuhax**
 
@@ -38,11 +38,33 @@ Menuhax ist ein Payload, den man über manche Methoden installieren kann, der in
 
 ### **unSAFE_MODE**
 
-unSAFE_MODE ist eine Methode, um CFW durch den Recovery Mode im 3DS zu installieren, wo man durchs Drücken von L + R + Steuerkreuz-Hoch + A während des Bootens des 3DS starten kann. Hier wird die Internetverbindung fehlschlagen, wodurch man in die Interneteinstellungen kommt, wo man durchs Laden der Proxy-Einstellungen CFW installieren kann.
+unSAFE_MODE ist eine Methode, um CFW durch den Recovery Mode im 3DS zu installieren, wo man durchs Drücken von L + R + Steuerkreuz Hoch + A während des Bootens des 3DS starten kann. Hier wird die Internetverbindung fehlschlagen, wodurch man in die Interneteinstellungen kommt, wo man durchs Laden der Proxy Einstellungen CFW installieren kann.
 
 ### **Slottool**
 
 Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installieren, um dann boot9strap zu installieren. Das ist eigentlich ein unnötiger Umweg, aber die Möglichkeit besteht, diese Methode zu benutzen.
+
+## Empfelungen für die unterschiedlichen Methoden:
+
+**MSET9: Empfohlen für Firmware Versionen 11.14 bis 11.17, da es effektivere Methoden für andere Firmware Versionen gibt.**
+
+**Soundhax: Empfohlen für Firmware Versionen 1.0 bis 11.3, da es die effektivste Methode für diese Firmware Versionen ist. Diese Methode ist jedoch nur auf diesen Firmware Versionen möglich.**
+
+**SSLoth-Browser: Empfohlen für Firmware Versionen 11.4 bis 11.13, da es die effektivste Methode für diese Firmware Versionen ist. Diese Methode ist nur auf diesen Firmware Versionen und NUR auf Old 2DS/3DS Modellen möglich.**
+
+**Kartminer7: Dieser Exploit ist auf jeder Firmware möglich und empfohlen für Leute, die diese Methode über Mario Kart 7 nutzen oder ausprobieren wollen, oder einfach, weil sie diese Methode bevorzugen.**
+
+**Kartdlphax: Dieser Exploit ist ebenfalls auf jeder Firmware möglich und wird stark empfohlen, wenn man einen bereits gehackten 3DS zur Verfügung hat, da es die schnellste und einfachste anwendbare Methode ist.**
+
+**NTRBootHax: Ist auf jeder Firmware möglich und nicht software patchbar. Diese Methode wird empfohlen, wenn man eine kompatible Flashkarte hat. Außerdem ist diese Methode die schnellste und beste von allen existierenden Methoden.**
+
+**Super-Skaterhax: Diese Methode ist nur für Firmware Versionen 11.15 bis 11.17 und NUR auf New 3DS/2DS Modellen möglich und gleichzeitig auch empfehlenswert.**
+
+### Weitere Informationen zu den Exploits:
+
+- Wenn erwähnt wird, dass ein Exploit nur auf bestimmten Firmware Versionen oder Modellen funktioniert, dann ist das auch nur so (wer hätte das gedacht). Wenn nichts dazu steht, sind alle Modelle kompatibel.
+- Die anderen Methoden sind keine direkten Exploits, sondern weitere Exploits, die durch andere Exploits genutzt werden, um dort dann CFW zu installieren.
+
 
 
 **Alle Dateien für alle Packs zusammen gestellt**
