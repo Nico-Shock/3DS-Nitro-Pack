@@ -6,11 +6,11 @@
 
 ### **MSET9**
 
-MSET9 ist ein Payload, der die Zusatzdaten des Mii Makers ausnutzt und dann ein Payload lädt, um CFW zu installieren.
+MSET9 ist ein Payload, der die Zusatzdaten des Mii Makers ausnutzt und dann ein Payload lädt, um CFW zu installieren. Empfohlen für Firmware-Versionen 11.14 bis 11.17.
 
 ### **Soundhax**
 
-Soundhax ist bzw. war eine Methode, die eine Schwachstelle im 3DS Sound ausnutzt, da dieser die Audiodateien einfach abspielt, statt sie auf überladenen oder falschen Inhalt zu prüfen, wodurch man CFW installieren kann. Diese Methode ist leider nur von Firmware 1.0 bis 11.3 möglich. Man muss eine spezielle Sounddatei für den Exploit manuell [hier](http://soundhax.com/) herunterladen.
+Soundhax ist bzw. war eine Methode, die eine Schwachstelle im 3DS Sound ausnutzt, da dieser die Audiodateien einfach abspielt, statt sie auf überladenen oder falschen Inhalt zu prüfen, wodurch man CFW installieren kann. Diese Methode ist nur von Firmware 1.0 bis 11.3 möglich.
 
 ### **SSLoth-Browser**
 
@@ -18,15 +18,15 @@ Der SSLoth-Browser ist eine Methode, bei der NUR der Old 3DS über den Browser d
 
 ### **kartminer7**
 
-Kartminer7 ist ein Payload, der die Extradaten in der Mario Kart 7 Version 1.2 ausnutzt, um über den StreetPass im Mario Kart Kanal, Menuhax oder den unSAFE_MODE installieren zu können.
+Kartminer7 ist ein Payload, der die Extradaten in der Mario Kart 7 Version 1.2 ausnutzt, um über den StreetPass im Mario Kart Kanal, Menuhax oder den unSAFE_MODE installieren zu können. Dieser Exploit ist auf jeder Firmware möglich.
 
 ### **Kartdlphax**
 
-Kartdlphax ist eine Methode, bei der man über den Download Play extrem schnell und einfach ein Plugin von einem bereits gehackten 3DS auf einen anderen 3DS übertragen kann, um dann Menuhax oder unSAFE_MODE zu installieren.
+Kartdlphax ist eine Methode, bei der man über den Download Play extrem schnell und einfach ein Payload von einem bereits gehackten 3DS auf einen anderen 3DS übertragen kann, um dann Menuhax oder unSAFE_MODE zu installieren. Dieser Exploit ist auf jeder Firmware möglich.
 
 ### **NTRBootHax**
 
-Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kompatibel ist (also .nds Dateien laden kann), verwendet wird. Dabei wird der Schlafmodus des 3DS beim Start durch Drücken von Select + Start + X genutzt, um boot9strap zu installieren.
+Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kompatibel ist (also .nds Dateien laden kann), verwendet wird. Dabei wird der Schlafmodus des 3DS beim Start durch Drücken von Select + Start + X genutzt, um boot9strap zu installieren. Dieser Exploit ist auf jeder Firmware möglich.
 
 ### **super-skaterhax**
 
