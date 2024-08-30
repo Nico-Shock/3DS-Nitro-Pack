@@ -20,6 +20,14 @@ Kartminer7 ist ein Payload, der die Extradaten in der Mario Kart 7 Version 1.2 a
 
 Kartdlphax ist eine Methode, bei der man über den Download Play extrem schnell und einfach ein Plugin von einem bereits gehackten 3DS auf einen anderen 3DS übertragen kann, um dann Menuhax oder unSAFE_MODE zu installieren.
 
+### **NTRBootHax**
+
+Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kompatibel ist (also .nds Dateien laden kann), verwendet wird. Dabei wird der Schlafmodus des 3DS beim Start durch Drücken von Select + Start + X genutzt, um boot9strap zu installieren.
+
+### **super-skaterhax**
+
+Der super-skaterhax ist eine Methode, die NUR auf den New 2DS/3DS-Systemen boot9strap über den Browser installiert. Es handelt sich dabei um eine Rückkehr von Browserhax für die New 2DS/3DS-Systeme von Firmware 11.15 bis 11.17.
+
 ### **Menuhax**
 
 Menuhax ist ein Payload, den man über manche Methoden installieren kann, der in den 3DS-Home-Menü-Einstellungen den Homebrew Launcher startet, worüber man durch nimdsphax CFW installieren kann.
@@ -28,17 +36,9 @@ Menuhax ist ein Payload, den man über manche Methoden installieren kann, der in
 
 unSAFE_MODE ist eine Methode, um CFW durch den Recovery Mode im 3DS zu installieren, wo man durchs Drücken von L + R + Steuerkreuz-Hoch + A während des Bootens des 3DS starten kann. Hier wird die Internetverbindung fehlschlagen, wodurch man in die Interneteinstellungen kommt, wo man durchs Laden der Proxy-Einstellungen CFW installieren kann.
 
-### **NTRBootHax**
-
-Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kompatibel ist (also .nds Dateien laden kann), verwendet wird. Dabei wird der Schlafmodus des 3DS beim Start durch Drücken von Select + Start + X genutzt, um boot9strap zu installieren.
-
 ### **Slottool**
 
 Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installieren, um dann boot9strap zu installieren. Das ist eigentlich ein unnötiger Umweg, aber die Möglichkeit besteht, diese Methode zu benutzen.
-
-### **super-skaterhax**
-
-Der super-skaterhax ist eine Methode, die NUR auf den New 2DS/3DS-Systemen boot9strap über den Browser installiert. Es handelt sich dabei um eine Rückkehr von Browserhax für die New 2DS/3DS-Systeme von Firmware 11.15 bis 11.17.
 
 
 **Alle Dateien für alle Packs zusammen gestellt**
