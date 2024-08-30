@@ -42,7 +42,7 @@ Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installie
 
 **Alle Dateien für alle Packs zusammen gestellt**
 
-[Mega](https://mega.nz/file/oXlWxB6K#NFbeDW3P21hh6o-HS2QU-IZwC3vzoW_IoxDRG-P164A)
+[Mega](https://mega.nz/file/ALVlCJJI#e6JiYYApHJoNNk5aaFOn-XWJ3mM_FN3VEaEEwg_CoXM)
 
 
 ## **Aktuelle Daten aller Packs zusammen:**
