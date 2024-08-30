@@ -36,8 +36,9 @@ Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kom
 
 Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installieren, um dann boot9strap zu installieren. Das ist eigentlich ein unnötiger Umweg, aber die Möglichkeit besteht, diese Methode zu benutzen.
 
+### **super-skaterhax**
 
-
+Der super-skaterhax ist eine Methode, die NUR auf den New 2DS/3DS-Systemen boot9strap über den Browser installiert. Es handelt sich dabei um eine Rückkehr von Browserhax für die New 2DS/3DS-Systeme von Firmware 11.15 bis 11.17.
 
 
 **Alle Dateien für alle Packs zusammen gestellt**
