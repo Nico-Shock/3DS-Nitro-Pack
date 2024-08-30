@@ -32,6 +32,11 @@ unSAFE_MODE ist eine Methode, um CFW durch den Recovery Mode im 3DS zu installie
 
 Der NTRBoothax ist eine Methode, bei der eine DS Flashkarte, die mit dem 3DS kompatibel ist (also .nds Dateien laden kann), verwendet wird. Dabei wird der Schlafmodus des 3DS beim Start durch Drücken von Select + Start + X genutzt, um boot9strap zu installieren.
 
+### **Slottool**
+
+Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installieren, um dann boot9strap zu installieren. Das ist eigentlich ein unnötiger Umweg, aber die Möglichkeit besteht, diese Methode zu benutzen.
+
+
 
 
 
