@@ -64,7 +64,7 @@ Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installie
 
 - Wenn erwähnt wird, dass ein Exploit nur auf bestimmten Firmware Versionen oder Modellen funktioniert, dann ist das auch so (wer hätte das gedacht). Wenn nichts dazu steht, sind alle Modelle kompatibel.
 - Die anderen Methoden sind keine direkten Exploits, sondern weitere Exploits, die durch andere Exploits genutzt werden, um dort dann CFW zu installieren.
-- Es gibt noch andere Exploits, die jedoch nicht empfohlen sind,da sie einfach zu umständlich sind.
+- Es gibt noch andere Exploits, die jedoch nicht empfohlen sind, da sie einfach zu umständlich sind.
 
 
 
