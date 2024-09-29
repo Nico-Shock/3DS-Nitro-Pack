@@ -70,17 +70,16 @@ Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installie
 
 **Alle Dateien für alle Packs zusammen gestellt**
 
-[Alle_3DS_Hacking_Daten.7z](https://github.com/Nico-Shock/3DS-Nitro-Pack/releases/download/v.1.0.0/Alle_3DS_Hacking_Daten.7z)
+[Alle_3DS_Hacking_Daten.7z](https://github.com/Nico-Shock/3DS-Nitro-Pack/releases/download/v.1.0.1/3DS_Hacking_Daten.zip)
 
 
 ## **Aktuelle Daten aller Packs zusammen:**
 
-- [Luma3DS v.13.1.2](https://github.com/LumaTeam/Luma3DS/releases/tag/v13.1.2)
+- [Luma3DS v.13.2](https://github.com/LumaTeam/Luma3DS/releases/tag/v13.2)
 - [GodMode9 v.2.1.1](https://github.com/d0k3/GodMode9/releases/tag/v2.1.1)
 - [GM9MegaScript v.1.2](https://github.com/annson24/GM9Megascript/releases/tag/v1.2)
 - [MSET9 v.2.0](https://github.com/zoogie/MSET9/releases/tag/v2.0)
 - [Boot9Strap v.1.4](https://github.com/SciresM/boot9strap/releases/tag/1.4)
-- [Boot9strap-ntr v.1.4](https://github.com/SciresM/boot9strap/releases/tag/1.4)
 - [SafeB9SInstaller v.0.0.7](https://github.com/d0k3/SafeB9SInstaller/releases/tag/v0.0.7)
 - [Homebrew Launcher v.2.4.3](https://github.com/devkitPro/3ds-hbmenu/releases/tag/v2.4.3)
 - [Homebrew Launcher Wrapper](https://wiidatabase.de/3ds-downloads/hacks/homebrew-launcher-wrapper/)
