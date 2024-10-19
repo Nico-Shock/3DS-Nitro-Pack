@@ -75,7 +75,7 @@ Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installie
 
 ## **Aktuelle Daten aller Packs zusammen:**
 
-- [Luma3DS v.13.2](https://github.com/LumaTeam/Luma3DS/releases/tag/v13.2)
+- [Luma3DS v.13.2.1](https://github.com/LumaTeam/Luma3DS/releases/tag/v13.2.1)
 - [GodMode9 v.2.1.1](https://github.com/d0k3/GodMode9/releases/tag/v2.1.1)
 - [GM9MegaScript v.1.2](https://github.com/annson24/GM9Megascript/releases/tag/v1.2)
 - [MSET9 v.2.0](https://github.com/zoogie/MSET9/releases/tag/v2.0)
