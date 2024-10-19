@@ -67,9 +67,6 @@ Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installie
 - Es gibt noch andere Exploits, die jedoch nicht empfohlen sind, da sie einfach zu umständlich sind.
 
 
-
-**Alle Dateien für alle Packs zusammen gestellt**
-
 [Alle_3DS_Hacking_Daten_zusammengestellt](https://github.com/Nico-Shock/3DS-Nitro-Pack/releases/download/v.1.0.2/3DS_Hacking_Daten.zip)
 
 
