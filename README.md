@@ -72,7 +72,7 @@ Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installie
 
 ## **Aktuelle Daten aller Packs zusammen:**
 
-- [Luma3DS v.13.2.1](https://github.com/LumaTeam/Luma3DS/releases/tag/v13.2.1)
+- [Luma3DS v.13.3](https://github.com/LumaTeam/Luma3DS/releases/tag/v13.3)
 - [GodMode9 v.2.1.1](https://github.com/d0k3/GodMode9/releases/tag/v2.1.1)
 - [GM9MegaScript v.1.2](https://github.com/annson24/GM9Megascript/releases/tag/v1.2)
 - [MSET9 v.2.0](https://github.com/zoogie/MSET9/releases/tag/v2.0)
@@ -81,12 +81,12 @@ Diese Methode wird benutzt, um im Homebrew Launcher den unSAFE_MODE zu installie
 - [Homebrew Launcher v.2.4.3](https://github.com/devkitPro/3ds-hbmenu/releases/tag/v2.4.3)
 - [Homebrew Launcher Wrapper](https://wiidatabase.de/3ds-downloads/hacks/homebrew-launcher-wrapper/)
 - [FBI v.2.6.1](https://github.com/Steveice10/FBI/releases/tag/2.6.1)
-- [Universal Updater v.3.2.6](https://github.com/Universal-Team/Universal-Updater/releases/tag/v3.2.6)
+- [Universal Updater v.3.2.8](https://github.com/Universal-Team/Universal-Updater/releases/tag/v3.2.8)
 - [Anemone v.3.0.1](https://github.com/astronautlevel2/Anemone3DS/releases/tag/v3.0.1)
 - [HShop v.1.4.5](https://hshop.erista.me/3hs)
 - [Checkpoint v.3.7.4](https://github.com/BernardoGiordano/Checkpoint/releases/tag/v3.7.4)
 - [Nimbus/Pretendo v.1.6.1](https://github.com/PretendoNetwork/nimbus/releases/tag/v1.6.1)
-- [FTPD v.3.1.0](https://github.com/mtheall/ftpd/releases/tag/v3.1.0)
+- [FTPD v.3.2.1](https://github.com/mtheall/ftpd/releases/tag/v3.2.1)
 - [Kartminer7 v.0.4](https://github.com/zoogie/Kartminer7/releases/tag/v0.4beta)
 - [Kartdlphax v.1.3.3](https://github.com/PabloMK7/kartdlphax/releases/tag/v1.3.3)
 - [Menuhax67 v.1.2](https://github.com/zoogie/menuhax67/releases/tag/v1.2)
